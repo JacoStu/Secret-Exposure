@@ -1,0 +1,10 @@
+name: CICD-SEC-6 Shared secrets abuse
+
+on: pull_request
+
+jobs:
+    test:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Test application
+              run: echo "Testing the application..."
