@@ -1,0 +1,18 @@
+{
+    "db_username": "user123",
+    "db_password": "pass123",
+    "db_host": "db_host123",
+    "db_port": "2222",
+    "redis_password": "redisSecret123!",
+    "redis_host": "redis_host123",
+    "redis_port": "6379",
+    "aws_access_key_id": "AKKLSDKALSLALSDFK",
+    "github_token": "ghp_abcd1234567890abcdef1234567890abcd",
+    "gitlab_token": "glpat-FAKEtoken1234567890",
+    "smtp_username": "noreply@mail.com",
+    "smtp_password": "SMTP_Password_123!",
+    "paypal_client_id": "AYFAKEPayPalClientID123456",
+    "paypal_client_secret": "EOFAKEPayPalClientSecret123456",
+    "oauth_google_client_id": "1234567890-abcdefg.apps.googleusercontent.com",
+    "oauth_google_client_secret": "GOOGLE_OAUTH_SECRET_FAKE"
+}
