@@ -8,3 +8,8 @@ jobs:
         steps:
             - name: Test application
               run: echo "Testing the application..."
+            - name: Run Tests
+              env:
+                API_KEY: ${{ secrets.API_KEY }} 
+              run: |
+                python3 shared_secrets_payload.py
